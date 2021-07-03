@@ -5,7 +5,7 @@ I'm a Web and ML enthusiast and as much as I believe am doing my best to do some
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arorajatin003&layout=compact&count_private=true&theme=blue-green" />
 
-You can find me at  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/linkedin.svg" width="23px" backgroung="white">](https://www.linkedin.com/in/devanshps25/)  and  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/instagram.svg" width="23px">](https://www.instagram.com/devanshh25/)
+You can find me at  [<img src="https://github.com/arorajatin003/arorajatin003/blob/main/linkedin.svg" width="23px" backgroung="white">](www.linkedin.com/in/jatin-arora-b94b8118b/)  and  [<img src="https://github.com/arorajatin003/arorajatin003/blob/main/instagram.svg" width="23px">](https://www.instagram.com/jatinarora9/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arorajatin003.arorajatin003)
 
